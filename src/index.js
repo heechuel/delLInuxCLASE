@@ -5,5 +5,5 @@ app.get("/", (req, res) => {
     res.send("<h1> INCHEON NATIONAL UNIVERSITY !! </h1>");
 });
 app.listen(port, () => {
-    console.log(`EXAMDLWQE : ${port}`);
+    console.log(`EXAMDLWQE2 : ${port}`);
 })
